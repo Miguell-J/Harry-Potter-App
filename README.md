@@ -1,4 +1,4 @@
-# App dd Feitiços de Harry Potter 🧙🏼‍♂️
+# App de Feitiços de Harry Potter 🧙🏼‍♂️
 
 ## Descrição do Projeto
 Este repositório contém uma aplicação interativa desenvolvida em Python usando a biblioteca Streamlit. A aplicação exibe informações detalhadas sobre uma variedade de feitiços do universo de Harry Potter. Os feitiços são apresentados em uma tabela que pode ser filtrada por nome, categoria e livro/filme.
